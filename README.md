@@ -1,4 +1,4 @@
-# Label-icon-landscap-slash
+
 1.Slash Activity
 2.Label Or Icon change
 3.ScreenOrinentation mode change(Landscap mode)
